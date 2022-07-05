@@ -1,0 +1,7 @@
+uint8 cluster_id
+float32 cluester_distlong
+float32 cluster_dislat
+float32 cluster_vrellong
+float32 cluster_dynPro
+float32 cluster_vrellat
+float32 cluster_rcs

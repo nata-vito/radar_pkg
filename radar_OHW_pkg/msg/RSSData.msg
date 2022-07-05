@@ -1,0 +1,2 @@
+float32 long_safe_dist
+float32 lat_safe_dist
